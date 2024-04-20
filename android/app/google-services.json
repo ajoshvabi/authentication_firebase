@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790462982299",
+    "project_id": "jet-cdaff",
+    "storage_bucket": "jet-cdaff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790462982299:android:99abe9ee0ddeb7103dfe3e",
+        "android_client_info": {
+          "package_name": "com.example.jet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCapZ3P5Vd3uVVsy23j8EQ8Ea1eaMgbh5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
